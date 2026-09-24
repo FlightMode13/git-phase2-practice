@@ -2,4 +2,5 @@
 
 Testing feature branch
 
+Conflict text from Branch B
 Conflict text from Branch A
